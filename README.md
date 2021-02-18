@@ -89,3 +89,12 @@ Global step: 23460 - [=============================>] 100% - acc: 0.9250 - loss:
 Epoch 60 - accuracy: 69.52% (6952/10000)
 
 Session is saved
+
+
+When test.py is executed
+
+# OUTPUT
+Restored the latest checkpoint 
+Checkpoint Restored : ./tensorboard/cifar-10-v1.0.0/-23460
+
+Accuracy on Test-Set: 69.52% (6952 / 10000)
