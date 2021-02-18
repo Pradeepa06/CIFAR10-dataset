@@ -1,7 +1,8 @@
 # CIFAR10 using TensorFlow
 
-
 When train.py is executed 
+
+# OUTPUT
 
 Epoch: 60/60
 
