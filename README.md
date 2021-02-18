@@ -1,5 +1,25 @@
 # CIFAR10 using TensorFlow
 
+Let’s train a network to classify images from the CIFAR10 Dataset using a Convolution Neural Network built in TensorFlow.
+
+# Steps
+1.Load the dataset
+
+2.Read the dataset
+
+3.Normalise the dataset using torchvision
+
+4.Define CNN
+
+5.Define Loss Function
+
+6.Train the Network
+ 
+7.Test the network based on trained data
+
+8.Make the predictions on test data
+
+
 When train.py is executed 
 
 # OUTPUT
